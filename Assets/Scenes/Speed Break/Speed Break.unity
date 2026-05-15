@@ -521,8 +521,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveDistance: 1
   maxSwerveAmount: 1
-  JumpPower: 1
-  AllowJumping: 0
+  JumpPower: 2
+  AllowJumping: 1
   groundedOffset: -0.14
   GroundLayerMask:
     serializedVersion: 2
