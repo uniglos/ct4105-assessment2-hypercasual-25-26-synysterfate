@@ -324,6 +324,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 390044636841625756, guid: d0984ad03263fbf48811f55a06fed2ae, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.0782
+      objectReference: {fileID: 0}
+    - target: {fileID: 390044636841625756, guid: d0984ad03263fbf48811f55a06fed2ae, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.0782
+      objectReference: {fileID: 0}
+    - target: {fileID: 390044636841625756, guid: d0984ad03263fbf48811f55a06fed2ae, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.0782
+      objectReference: {fileID: 0}
+    - target: {fileID: 390044636841625756, guid: d0984ad03263fbf48811f55a06fed2ae, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -384.06903
+      objectReference: {fileID: 0}
     - target: {fileID: 812404721592279531, guid: d0984ad03263fbf48811f55a06fed2ae, type: 3}
       propertyPath: m_TargetGraphic
       value: 
@@ -424,6 +440,30 @@ PrefabInstance:
       propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
       value: 1801810542
       objectReference: {fileID: 0}
+    - target: {fileID: 6700942746738529505, guid: d0984ad03263fbf48811f55a06fed2ae, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 6700942746738529505, guid: d0984ad03263fbf48811f55a06fed2ae, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 80
+      objectReference: {fileID: 0}
+    - target: {fileID: 6700942746738529505, guid: d0984ad03263fbf48811f55a06fed2ae, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.8963991
+      objectReference: {fileID: 0}
+    - target: {fileID: 6700942746738529505, guid: d0984ad03263fbf48811f55a06fed2ae, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.0782
+      objectReference: {fileID: 0}
+    - target: {fileID: 6700942746738529505, guid: d0984ad03263fbf48811f55a06fed2ae, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.0782
+      objectReference: {fileID: 0}
+    - target: {fileID: 6700942746738529505, guid: d0984ad03263fbf48811f55a06fed2ae, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -143
+      objectReference: {fileID: 0}
     - target: {fileID: 7570239198352581772, guid: d0984ad03263fbf48811f55a06fed2ae, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -519,6 +559,22 @@ PrefabInstance:
     - target: {fileID: 7730494014231993848, guid: d0984ad03263fbf48811f55a06fed2ae, type: 3}
       propertyPath: m_ReferenceResolution.y
       value: 1600
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127624891356990969, guid: d0984ad03263fbf48811f55a06fed2ae, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.0782
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127624891356990969, guid: d0984ad03263fbf48811f55a06fed2ae, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.0782
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127624891356990969, guid: d0984ad03263fbf48811f55a06fed2ae, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.0782
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127624891356990969, guid: d0984ad03263fbf48811f55a06fed2ae, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -571.109
       objectReference: {fileID: 0}
     - target: {fileID: 8330049048591486817, guid: d0984ad03263fbf48811f55a06fed2ae, type: 3}
       propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
@@ -1001,7 +1057,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: cca994ed937f7714b8f571255418db66, type: 3}
+  m_Texture: {fileID: 2800000, guid: aba5151bc448d784e8cfa751ee909bf0, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -1234,7 +1290,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: a9aa50bc1d248934d9a090eca19e8d5b, type: 3}
+  m_Texture: {fileID: 2800000, guid: aba5151bc448d784e8cfa751ee909bf0, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -1982,7 +2038,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: cca994ed937f7714b8f571255418db66, type: 3}
+  m_Texture: {fileID: 2800000, guid: aba5151bc448d784e8cfa751ee909bf0, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
