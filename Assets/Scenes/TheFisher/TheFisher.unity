@@ -841,7 +841,7 @@ MonoBehaviour:
   BaitSizeBaseCost: 40
   BaitCostIncreaseMulti: 1.3
   baitSizeUpgradeAmount: 0.03
-  MaxNumberBaitSizeAmount: 8
+  MaxNumberBaitSizeAmount: 9
   fishingBaitAmountMulti: 1.25
 --- !u!1 &353728518
 GameObject:
