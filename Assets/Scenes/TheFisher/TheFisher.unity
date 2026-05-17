@@ -767,7 +767,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf524497ea720b342951d510d4baac53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreWinNumber: 100
+  scoreWinNumber: 15
   lowestScore: 0
   startingScore: 0
   clampUpperScore: 0
@@ -828,20 +828,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Rod: {fileID: 1586630341}
   increaseMultiplies: 1
-  FishLineBaseCost: 10
-  LineCostIncreaseMulti: 1.5
-  fishLineUpgradeAmount: 10
-  MaxNumberOfLineUpgrades: 5
+  FishLineBaseCost: 30
+  LineCostIncreaseMulti: 1.35
+  fishLineUpgradeAmount: 7
+  MaxNumberOfLineUpgrades: 6
   fishingLineUpgradeAmountMulti: 1.25
-  RodSpeedBaseCost: 10
-  RodCostIncreaseMulti: 1.5
-  fishingRodSpeedUpgradeAmount: 0.5
-  fishingRodSpeedUpgradeAmountMulti: 1.25
-  MaxNumberRodSpeedUpgrade: 5
-  BaitSizeBaseCost: 10
-  BaitCostIncreaseMulti: 1.5
-  baitSizeUpgradeAmount: 0.25
-  MaxNumberBaitSizeAmount: 5
+  RodSpeedBaseCost: 15
+  RodCostIncreaseMulti: 1.25
+  fishingRodSpeedUpgradeAmount: 0.45
+  fishingRodSpeedUpgradeAmountMulti: 1.15
+  MaxNumberRodSpeedUpgrade: 6
+  BaitSizeBaseCost: 40
+  BaitCostIncreaseMulti: 1.3
+  baitSizeUpgradeAmount: 0.03
+  MaxNumberBaitSizeAmount: 8
   fishingBaitAmountMulti: 1.25
 --- !u!1 &353728518
 GameObject:
@@ -1753,8 +1753,7 @@ MeshRenderer:
   m_SmallMeshCulling: 1
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: 64365f44202705548ae5c0acc3f707da, type: 2}
+  m_Materials: []
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3134,9 +3133,9 @@ MonoBehaviour:
   gameStart:
     m_PersistentCalls:
       m_Calls: []
-  RodSpead: 1
-  FishingLineLength: 40
-  baitSize: 1
+  RodSpead: 1.75
+  FishingLineLength: 18
+  baitSize: 0.4
   BaitBaseDepth: 30
   baitVec3Depth: {x: 0, y: 1, z: 0}
 --- !u!120 &1586630342
